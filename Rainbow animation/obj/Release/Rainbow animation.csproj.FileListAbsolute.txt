@@ -1,0 +1,22 @@
+C:\Users\Rewfix\Desktop\Rainbow animation\Rainbow animation\bin\Release\Rainbow animation.exe.config
+C:\Users\Rewfix\Desktop\Rainbow animation\Rainbow animation\bin\Release\Rainbow animation.exe
+C:\Users\Rewfix\Desktop\Rainbow animation\Rainbow animation\bin\Release\Rainbow animation.pdb
+C:\Users\Rewfix\Desktop\Rainbow animation\Rainbow animation\obj\Release\Rainbow animation.csproj.AssemblyReference.cache
+C:\Users\Rewfix\Desktop\Rainbow animation\Rainbow animation\obj\Release\Rainbow animation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rewfix\Desktop\Rainbow animation\Rainbow animation\obj\Release\Rainbow_animation.Form1.resources
+C:\Users\Rewfix\Desktop\Rainbow animation\Rainbow animation\obj\Release\Rainbow_animation.Properties.Resources.resources
+C:\Users\Rewfix\Desktop\Rainbow animation\Rainbow animation\obj\Release\Rainbow animation.csproj.GenerateResource.cache
+C:\Users\Rewfix\Desktop\Rainbow animation\Rainbow animation\obj\Release\Rainbow animation.csproj.CoreCompileInputs.cache
+C:\Users\Rewfix\Desktop\Rainbow animation\Rainbow animation\obj\Release\Rainbow animation.exe
+C:\Users\Rewfix\Desktop\Rainbow animation\Rainbow animation\obj\Release\Rainbow animation.pdb
+C:\Users\Rewfix\Desktop\Приложения\Rainbow animation\Rainbow animation\bin\Release\Rainbow animation.exe.config
+C:\Users\Rewfix\Desktop\Приложения\Rainbow animation\Rainbow animation\bin\Release\Rainbow animation.exe
+C:\Users\Rewfix\Desktop\Приложения\Rainbow animation\Rainbow animation\bin\Release\Rainbow animation.pdb
+C:\Users\Rewfix\Desktop\Приложения\Rainbow animation\Rainbow animation\obj\Release\Rainbow animation.csproj.AssemblyReference.cache
+C:\Users\Rewfix\Desktop\Приложения\Rainbow animation\Rainbow animation\obj\Release\Rainbow animation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rewfix\Desktop\Приложения\Rainbow animation\Rainbow animation\obj\Release\Rainbow_animation.Form1.resources
+C:\Users\Rewfix\Desktop\Приложения\Rainbow animation\Rainbow animation\obj\Release\Rainbow_animation.Properties.Resources.resources
+C:\Users\Rewfix\Desktop\Приложения\Rainbow animation\Rainbow animation\obj\Release\Rainbow animation.csproj.GenerateResource.cache
+C:\Users\Rewfix\Desktop\Приложения\Rainbow animation\Rainbow animation\obj\Release\Rainbow animation.csproj.CoreCompileInputs.cache
+C:\Users\Rewfix\Desktop\Приложения\Rainbow animation\Rainbow animation\obj\Release\Rainbow animation.exe
+C:\Users\Rewfix\Desktop\Приложения\Rainbow animation\Rainbow animation\obj\Release\Rainbow animation.pdb
